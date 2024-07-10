@@ -28,3 +28,7 @@ p{
     gap: 20px;
     margin: 20px;
 }
+
+.bad p{
+    text-decoration: line-through;
+}
